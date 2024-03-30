@@ -2,7 +2,7 @@
 MATLAB
 Author: Marlee Hunter
 Notes:
-  Hope this works!
+  Create a program to help students study by using metric flashcards
 %}
 
 %clearing exisiting code
