@@ -2,6 +2,8 @@
 # Author: Marlee Hunter
 # Email: mchu250@uky.edu
 
+# Purpose: This program performs a risk analysis for multiple companies based on their CEO pay ratios and median worker pay
+
 
 def main():
     
