@@ -1,4 +1,8 @@
 # Author- Marlee Hunter
+# Purpose- Uses the graphics window to create a game to try and guess where the Champion(a hidden dot) is.
+# User can click screen 14 times to try and guess. The distance from the champion is calculated each time
+# along with the guess count. If the Champion is found, a message that the user won will show up, else a message
+# that the user lost will show up
 
 
 from graphics import *
