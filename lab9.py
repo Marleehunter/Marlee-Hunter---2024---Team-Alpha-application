@@ -1,7 +1,8 @@
 # Author- Marlee Hunter
 
 '''
-Purpose: This program gets two times from input then compares them down to the second. Prints if they are equal, greater, or the same
+Purpose: The purpose of this program is to compare two different times given in terms of hours, minutes, and seconds. Then print if they are the same, 
+         if the first time happens before second time, or if the first time happens after the second time
 Pre-conditions: Get the 2 times in hours(int), minutes(int), and seconds(int)
 Post-conditions:  Returns the first and second time then says if the time are greater equal or less than the other time
 
