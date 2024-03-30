@@ -2,7 +2,9 @@
 MATLAB
 Author: Marlee Hunter
 Notes:
-  Hope this works!
+  Flashcards to help students study their prefix's name and abbreviation. 
+  How many prefixes the student wants to study and the abbreviation is read from input. If it is right,
+  the program will say it is correct, else it will say the right abbreviation.
 %}
 
 %clearing exisiting code
