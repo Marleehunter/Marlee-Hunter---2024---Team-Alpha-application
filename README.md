@@ -1,12 +1,4 @@
 # Marlee Hunter - 2024 - Team Alpha Application
 
-# Lab 8 
-
-# Lab 9 
-
-# Lab test 1
-
-# Monte
-
-# Metric Flashcards
+ The description of each program is at the top of each in the purpose comment. 
 
