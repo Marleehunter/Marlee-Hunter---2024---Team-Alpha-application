@@ -1,7 +1,7 @@
 # Author- Marlee Hunter
 
 '''
-Purpose: This program gets two times from input then compares them down to the second. Prints if they are equal, greater, or the same,
+Purpose: This program gets two times from input then compares them down to the second. Prints if they are equal, greater, or the same
 Pre-conditions: Get the 2 times in hours(int), minutes(int), and seconds(int)
 Post-conditions:  Returns the first and second time then says if the time are greater equal or less than the other time
 
